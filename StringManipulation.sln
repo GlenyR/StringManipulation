@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation.Tests", "StringManipulation.Tests\StringManipulation.Tests.csproj", "{8EE21A89-860C-4E98-A9CD-11480EB61E2D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{B24C7B5A-FD4C-4BD8-A2E1-870B156A86AB}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMeImages\UnitTests.JPG = ReadMeImages\UnitTests.JPG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
